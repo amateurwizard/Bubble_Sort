@@ -1,5 +1,5 @@
-# Author: Tobechukwu N. Njoku
-# Date: 25/09/2018
+# Author: Amateur Wizard
+# Date: 2021/08/21
 
 
 def bubble_sort(my_list):       # This is the method that sorts a list
